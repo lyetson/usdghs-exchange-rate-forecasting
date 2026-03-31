@@ -1,7 +1,8 @@
-USD/GHS Exchange Rate Forecasting Model
-Forecasting the Ghanaian Cedi Against the U.S. Dollar — And What It Means for Businesses
-Course: ECON 516 | Author: Princess Johnson | Date: December 2025  
-Institution: Eastern Michigan University — MS Applied Economics
+#USD/GHS Exchange Rate Forecasting Model
+###Forecasting the Ghanaian Cedi Against the U.S. Dollar — And What It Means for Businesses
+
+**Course:** ECON 516 | **Author:** Princess Johnson | **Date:** December 2025  
+**Institution:** Eastern Michigan University — MS Applied Economics
 ---
 Project Overview
 This project forecasts the monthly nominal USD/GHS exchange rate over a 24-month horizon (January 2025 – December 2026) using six years of official Bank of Ghana data (January 2019 – December 2024).
